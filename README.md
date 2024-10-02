@@ -14,3 +14,10 @@ Fandango is a company that sells movie tickets and also rates those movies. With
 I hope you have fun with that (and save yourself from some bad movies)!
 
 <br/><br/>
+
+
+## KMeans clustering project 
+
+This project uses unsupervised method to cluster countries by their parameters. KMeans method was used here.
+
+<br/><br/>
