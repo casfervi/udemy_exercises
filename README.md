@@ -21,3 +21,9 @@ I hope you have fun with that (and save yourself from some bad movies)!
 This project uses unsupervised method to cluster countries by their parameters. KMeans method was used here.
 
 <br/><br/>
+
+## PCA   
+
+This folder present two project using principal component analysis with different goals.
+
+<br/><br/>
