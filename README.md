@@ -2,7 +2,7 @@
 
 This repository was made to store exercises and activities proposed by courses from Udemy
 
-> The activities present here can be replaced with new ones by myself.
+> The activities present here can be replaced for new ones by myself.
 
 <br/><br/>
 
