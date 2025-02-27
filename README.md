@@ -27,3 +27,9 @@ This project uses unsupervised method to cluster countries by their parameters. 
 This folder present two project using principal component analysis with different goals.
 
 <br/><br/>
+
+## DBSCAN  
+
+This folder present two files with Density-Based Spatial Clustering of Applications with Noise (DBSCAN). Data are also inside the folder. One presents an applied project and another one is more to understand the feature.
+
+<br/><br/>
